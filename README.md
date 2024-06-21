@@ -1,6 +1,5 @@
 # YouTube Clone
 
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/f3ddce49-5564-4db3-b1ca-75e6f14b55dc)
 
 
 
@@ -15,13 +14,8 @@ YouTube Clone is a web application that replicates the core features of YouTube,
 - User Accounts: Optional user accounts allow users to create playlists, like videos, and view their watch history.
 
 ## Demo
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/c01c77de-819c-443f-8746-a1ec6793770f)
 
-
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/c1e47d67-3651-480b-a8cd-edbb1b4810dd)
-
-
-You can access the live demo of YouTube Clone at [[(https://youtube-clone-by-ritesh.netlify.app)]](https://youtube-clone-by-ritesh.netlify.app/)).
+You can access the live demo of YouTube Clone at https://youtube-clone-azeemkhan.netlify.app/
 
 ## Getting Started
 
@@ -61,9 +55,6 @@ npm start
 ```
 
 2. Open your web browser and visit [http://localhost:3000](http://localhost:3000).
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/8a75d643-bcf6-4392-a65e-ccd1dec80298)
-
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/bd31d083-0469-4ef2-acb2-ff14f747280a)
 
 
 4. You can now search for videos, watch them, and share URLs with others.
@@ -91,7 +82,6 @@ YouTube Clone was developed for educational purposes and as a showcase of web de
 
 If you have any questions or suggestions, feel free to reach out to the project owner:
 
-- Ritesh Kumar
-- GitHub: [@riteshk-007](https://github.com/riteshk-007)
-- Email: rk0001945@gmail.com, codeshorts007@gmail.com
+- Azeem Khan
+- Email: azeemk22may@gmail.com
 
